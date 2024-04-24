@@ -1,4 +1,4 @@
-# Project Title: Scholarship Data Analytics with Azure Data Engineering 🚀
+# Scholarship Data Analytics with Azure Data Engineering 🚀
 
 ## Overview
 
